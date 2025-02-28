@@ -1,0 +1,225 @@
+# grep -Rn "shell *(" /var/www
+# strings for finding backdoor shells, rootkits, botnets, and exploitable functions
+#p@@#
+-rw-r--r--
+//0x5a455553.github.io/MARIJUANA/icon.png
+0byt3m1n1
+768776e296b6f286f2a72607e276b62666c6d286
+<title>IndoXploit</title>
+<title>Legion</title>
+<title>Vuln!! patch it Now!</title>
+ABC Manager
+ALFA TEaM Shell - v3.0.2
+ALFA TEaM Shell - v4.1-Tesla
+Andela1C3
+AnonymousFox
+B Ge Team File Manager
+CHips L Pro sangad
+Change Permissions
+Dr HeX
+F0x
+File manager
+FilesMAn
+FilesMan
+FoxCyberSecurity
+FoxWSO
+FoxWSO v1.2
+Html404
+IndoXploit
+JEMBOETS
+Jijle3
+MARIJuANA
+Marijuana
+Mini Shell
+Mini Shell By Black_Shadow
+Mister Spy
+MisterSpyv7up
+Mr.Anderson
+Ninja Shell
+NullBrain
+PHP File Manager
+PHP Uploader
+PHPSESSID
+Phenix-TN
+Psych0.WorM
+Raiz0WorM
+RxR
+RxR HaCkEr
+Shell Uploader
+TheAlmightyZeus
+Tryag
+Tryag File Manager
+United Bangladeshi Hackers
+Uploader RxR HaCkEr
+Vuln!! patch it Now!
+WHY MINI SHELL
+WSO
+WSO 2.5
+WSO 2.6
+WSO 4.2.5
+WSO 5.0.0
+WSOX ENC
+WebShellOrb
+Windows-1251
+X_Shell
+[UNAME]:
+``
+a57bze8931
+aDriv4
+anonymousfox
+apache_child_terminate
+assert
+b374k
+base64_decode
+bypassSecurityTrustHtml
+bypassSecurityTrustResourceUrl
+bypassSecurityTrustScript
+bypassSecurityTrustStyle
+bypassSecurityTrustUrl
+bzopen
+chgrp
+chmod
+chown
+cmd
+config root man
+copy
+create_function
+disk_free_space
+disk_total_space
+diskfreespace
+edoced_46esab
+eval
+eval()
+exec
+exif_imagetype
+exif_read_data
+exif_thumbnail
+extract
+fclose
+file_get_contents
+file_put_contents
+fopen
+fsockopen
+ftp_nb_put
+ftp_put
+gel4y
+get_cfg_var
+get_current_user
+get_meta_tags
+getcwd
+getenv
+gethostname
+getlastmo
+getmygid
+getmyinode
+getmypid
+getmyuid
+getuid
+gzopen
+hash_file
+hash_hmac_file
+hash_update_file
+highlight_file
+iCloud1337 private shell
+imagecreatefromgif
+imagecreatefromjpeg
+imagecreatefrompng
+imagecreatefromwbmp
+imagecreatefromxbm
+imagecreatefromxpm
+include
+include_once
+indoxploit
+ini_set
+izocin
+lchgrp
+lchown
+link
+md5_file
+mkdir
+move_uploaded_file
+mysql_execute
+olux
+parse_str
+passthru
+payload
+pcntl_exec
+pfsockopen
+phpMyAdmin
+php_strip_whitespace
+php_uname
+phpinfo
+phpinfo()
+popen
+posix_getlogin
+posix_kill
+posix_mkfifo
+posix_setpgid
+posix_setsid
+posix_setuid
+posix_ttyname
+preg_replace
+proc_get_status
+proc_open
+putenv
+read_exif_data
+readfile
+register_shutdown_function
+register_tick_function
+require
+require_once(
+sha1_file
+shell_exec
+show_source
+str_repeat
+symlink
+system
+tempnam
+tmpfile
+ubhteam
+uname
+uname -a
+unserialize
+whoami
+xAttacker
+xichang1
+xleet
+xleetshell
+Alpha
+CCAEF Uploader
+Cpanel Reset Password
+D3xterR00t
+H3NING_MAL4M
+H3X
+Haxgeno7"
+Leafmail3
+Leviathan Hunter
+PHP Uploader - By Phenix-TN & Mr.Anderson
+Priv8 Home Root Uploader by Mrcakil
+RevoLutioN Namesis
+Sh3ll
+Sh3ll By Anons79
+Tiny File Manager
+Upload file :
+WebRooT
+Yanz Webshell! - PRIV8 WEB SHELL ORB YANZ BYPASS!
+[LAMBO]
+admin403
+admin404
+adriv4
+Alfa
+alfa-v4
+alfa123
+alpha
+anons79
+eval(
+exec("
+exec($_
+eval(base64_decode(
+eval(gzdecode
+eval(gzinflate
+eval(gzuncompress
+eval(htmlspecialchars_decode(
+eval(str_rot13
+eval(strrev
+require_once()
