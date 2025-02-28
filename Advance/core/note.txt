@@ -1,1 +1,17 @@
 
+Shell String
+Shell string merujuk pada string yang digunakan dalam perintah shell atau skrip shell atau indikator webshell
+
+Other String
+Other string adalah string yang tidak termasuk dalam kategori shell, path, atau file. Ini bisa mencakup teks biasa, parameter input, atau string lainnya yang diproses dalam suatu aplikasi.
+
+Path Traversal
+Path traversal adalah teknik eksploitasi yang memungkinkan akses ke direktori atau file di luar batas yang diizinkan oleh aplikasi. Contoh karakteristik path traversal:
+
+Trusted File
+Trusted file adalah file yang sudah diverifikasi sebagai aman untuk digunakan dalam suatu sistem. File ini bisa berupa konfigurasi, skrip eksekusi, atau sumber daya lain yang diperlukan aplikasi dan biasanya memiliki kontrol akses yang ketat.
+
+User Agents
+User-Agent adalah string yang dikirim oleh browser atau klien HTTP untuk mengidentifikasi dirinya kepada server.
+
+Jika di perlukan kalian bisa edit bagian Shell-String dan Other String ataupun Traversals nya.
