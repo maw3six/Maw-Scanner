@@ -292,8 +292,8 @@ func appendToFile(filename, data string) {
 }
 
 func sendToTelegram(message string) {
-	token := "7854967947:AAFqrv0QhWiBlPoAQeae6LN83SCqhBYP0k4" // Hapus prefix "bot"
-	chatID := "7843818472"
+	token := "TOKEN_BOT_TELE"
+	chatID := "ID_CHAT_TELE"
 	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage", token)
 
 	payload := map[string]string{
